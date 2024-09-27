@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debajyoti-3
 - 👀 I’m interested in ...Design & Development
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java and DSA
 - 💞️ I’m looking to collaborate on ... Nothing Now
 - 📫 How to reach me ... debajyotimitra369@gmail.com
 - 😄 Pronouns: ... He
