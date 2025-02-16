@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debajyoti-3" alt="debajyoti-3" /></a> </p>
 
-- 🌱 I’m currently learning **Development and DSA**
+- 🌱 I’m currently learning **Development**
 
 - 📫 How to reach me **debajyotimitra369@gmail.com**
 
